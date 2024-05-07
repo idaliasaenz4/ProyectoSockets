@@ -1,0 +1,24 @@
+{
+  "name": "proyectosockets",
+  "version": "1.0.0",
+  "description": "crear app con socket.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idaliasaenz4/ProyectoSockets.git"
+  },
+  "author": "idalia saenz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idaliasaenz4/ProyectoSockets/issues"
+  },
+  "homepage": "https://github.com/idaliasaenz4/ProyectoSockets#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "save": "^2.9.0",
+    "socket.io": "^4.7.5"
+  }
+}
